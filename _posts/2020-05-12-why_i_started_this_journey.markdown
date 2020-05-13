@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I started this journey"
-date:       2020-05-13 01:20:25 +0000
+date:       2020-05-12 21:20:26 -0400
 permalink:  why_i_started_this_journey
 ---
 
