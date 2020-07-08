@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Neverending Journey-Sinatra Project"
-date:       2020-07-08 14:52:41 +0000
+date:       2020-07-08 10:52:41 -0400
 permalink:  the_neverending_journey-sinatra_project
 ---
 
