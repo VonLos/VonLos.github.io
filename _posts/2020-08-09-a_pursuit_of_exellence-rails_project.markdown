@@ -1,0 +1,10 @@
+---
+layout: post
+title:      "A Pursuit of Exellence-Rails Project"
+date:       2020-08-10 03:10:38 +0000
+permalink:  a_pursuit_of_exellence-rails_project
+---
+
+Originally for this project, I was making the final iteration of my Jikan API project. The goal was to take what I made in Sinatra and upgrade it using the new abilities rails provided me. Allowing things like outh authentication through google, facebook, and github. Additional models and search functionality, but in the end I had to scrap it due to certain elements not meshing well with the project requirements. It functions and works, but some of the additonal requirements of the rails project such as nested routes didn't really fit into it well. So instead I had to make a new design. What I came up with is a book management system. Allowing nested routes through a `reviews` model. Users can elect to sign in through google using outh if they so choose. The standard database structure, MVC design pattern, and restful protocals found in my sinatra project are maintained here with changes as needed for rails. Primarily resource generators were used to set everything up and a controller generator for the sessions controller. Helpers were added as needed. A gem known as simple form was used to allow for clean forms and simplified error display.  It's an okay application and there in lies the issue.
+
+The biggest take away from this project is that I'm proficient, not excellent. Proficient might have cut it a year ago, but with the way the world is shaping up this year that's no longer the case. I can't simply be middle of the pack, but instead I have to be at the absolute top of my game. So I've started to attempt to integrate new tools like Devise and Bulma to drive my work to the next level. To really take advantage of every little resource at my disposal to push even a little bit closer towards excellence. This project has yet to be deployed on heroku, but when it does I think it's going to be something I can call excellent.
