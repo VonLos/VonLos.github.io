@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Redux Toolkit: Redux As It Should Be"
-date:       2020-10-08 14:44:00 +0000
+date:       2020-10-08 10:44:01 -0400
 permalink:  redux_toolkit_redux_as_it_should_be
 ---
 
